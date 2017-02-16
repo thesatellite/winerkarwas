@@ -1,0 +1,28 @@
+p {
+    font-family: serif;
+    font-weight: 400;
+    line-height: 150%;
+    font-size: 16px;
+    text-align: left;
+}
+
+.footnote {
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    color: #999;
+}
+
+.footnote_container {
+    padding-top: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+sup{
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 11px;
+  color: #999;
+}
