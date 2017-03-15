@@ -109,7 +109,7 @@ width: 100%;
   font-family:Roboto, sans-serif;;
   font-weight:400;
   font-size:13px;
-  text-align:right;"
+  text-align:right;
 }
 
 .title{
@@ -119,4 +119,20 @@ width: 100%;
   font-family:Roboto, sans-serif;;
   font-weight:300;
   font-size:19px;
+}
+
+.event{
+  margin: 0 0 10px 0;
+  letter-spacing: 2px;
+  font-size:23px;
+}
+
+.subtitle{
+  margin: 0 0 40px 0;
+  letter-spacing: 1px;
+  color: #999;
+  font-family:Roboto, sans-serif;;
+  font-weight:300;
+  font-size:15px;
+  line-height: 21px;
 }
