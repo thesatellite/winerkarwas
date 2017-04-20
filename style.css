@@ -122,7 +122,7 @@ width: 100%;
 }
 
 .event{
-  margin: 0 0 10px 0;
+  margin-bottom: 10px;
   letter-spacing: 1px;
     font-family:Maitree, serif;
 }
