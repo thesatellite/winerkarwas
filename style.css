@@ -85,15 +85,12 @@ sup {
 }
 
 .content_container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: flex-start;
+    display: block;
+    margin: 0 auto;
 }
 
 .content_box{
   padding: 30px;
-  flex: 0 1 500px;
 }
 
 .content_box img{
