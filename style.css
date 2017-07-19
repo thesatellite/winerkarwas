@@ -60,6 +60,21 @@ sup {
   margin-top: 11px;
   letter-spacing: 0px;
 }
+
+.centerlogo{
+  font-family:Maitree, serif;
+  font-weight:500;
+  font-size:21px;
+  letter-spacing: 0px;
+}
+
+.content_container_landing {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    padding-top:45%;
+}
+
 .page {
     margin: 0 5% 70px 5%;
 }
